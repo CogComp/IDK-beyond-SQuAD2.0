@@ -30,7 +30,7 @@ The corpus is in SQuAD 2.0 format so it can be used with the same code.
   - Compet. IDK: **DATA/ACE-whQA/ACE-whQA-IDK-competitive.json**
   - Non-Compet. IDK: **DATA/ACE-whQA/ACE-wkQA-non-competitive.json**
 
-## 3. Pretrained Models
+## 2. Pretrained Models
 
 * Extractive QA:
 
@@ -40,7 +40,7 @@ The corpus is in SQuAD 2.0 format so it can be used with the same code.
 
   - [Additional pretraining on c(MNLI)](https://drive.google.com/drive/folders/1qW49KLdgI58H56vJ1FOOgyW9MnejuhSJ?usp=sharing)
   
-  ## 4. Commands for Training and Testing on SQuAD 2.0 and MNLI:
+ ## 3. Commands for Training and Testing on SQuAD 2.0 and MNLI:
 
 
 * Setting: TensorFlow using Google Cloud and a single TPU (v2.8)
@@ -82,7 +82,7 @@ The corpus is in SQuAD 2.0 format so it can be used with the same code.
    
    * Code: https://github.com/google-research/bert
  
-      ** MNLI: https://github.com/google-research/bert#sentence-and-sentence-pair-classification-tasks
+      - MNLI: https://github.com/google-research/bert#sentence-and-sentence-pair-classification-tasks
 
-      ** SQuAD 2.0: https://github.com/google-research/bert#squad-20
+      - SQuAD 2.0: https://github.com/google-research/bert#squad-20
         
