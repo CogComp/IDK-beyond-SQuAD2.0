@@ -14,7 +14,7 @@ Repository for the paper:
 * SQuAD 2.0
   - [Train Set](https://rajpurkar.github.io/SQuAD-explorer/dataset/train-v2.0.json)
   - [Dev Set](https://rajpurkar.github.io/SQuAD-explorer/dataset/dev-v2.0.json)
-  * MNLI 
+* MNLI 
   - [Train Set](GLUE_DATA/MNLI/train.tsv)
   - [Dev Set](GLUE_DATA/MNLI/dev_matched.tsv)
 
