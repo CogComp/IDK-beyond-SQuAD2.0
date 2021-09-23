@@ -80,7 +80,7 @@ The corpus is in SQuAD 2.0 format so it can be used with the same code.
                    
    It should be unzipped to some directory $BERT_MODEL.
    
-   * Code: https://github.com/google-research/bert
+ * Code: https://github.com/google-research/bert
  
       - MNLI: https://github.com/google-research/bert#sentence-and-sentence-pair-classification-tasks
 
