@@ -30,6 +30,8 @@ The corpus is in SQuAD 2.0 format so it can be used with the same code.
   - Compet. IDK: **DATA/ACE-whQA/ACE-whQA-IDK-competitive.json**
   - Non-Compet. IDK: **DATA/ACE-whQA/ACE-wkQA-non-competitive.json**
 
+ **License:** The corpora are released under the [Creative Commons Share-Alike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/)
+
 ## 2. Pretrained Models
 
 * Extractive QA:
